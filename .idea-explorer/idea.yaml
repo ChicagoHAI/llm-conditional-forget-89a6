@@ -1,0 +1,30 @@
+idea:
+  title: LLMs are bad at "conditional forgetting"
+  domain: artificial_intelligence
+  hypothesis: 'Humans can "conditionally forget" prior knowledge, such as existing
+    rules in chess, and apply new hypothetical or analogical rules effectively, whereas
+    large language models (LLMs) struggle to do this even with advanced reasoning
+    capabilities.
+
+    '
+  background:
+    description: 'When giving humans analogical or hypothetical scenarios and rules,
+      humans can apply them effectively, for example, introducing new rules in chess.
+      However, LLMs may struggle in those scenarios, even with the latest reasoning
+      models. The hypothesis here is that humans can "conditionally forget" what they
+      know, such as existing chess rules, and apply the new rules, while LLMs cannot
+      do this effectively.
+
+      '
+  constraints:
+    compute: cpu_only
+    time_limit: 3600
+    budget: 100
+  metadata:
+    source: IdeaHub
+    source_url: https://hypogenic.ai/ideahub/idea/dLfpQ7mR6I8VZ8RLCj06
+    idea_id: llms_are_bad_at__conditional_f_20251106_141551_b1949674
+    created_at: '2025-11-06T14:15:51.727624'
+    status: submitted
+    github_repo_name: llm-conditional-forget-89a6
+    github_repo_url: https://github.com/ChicagoHAI/llm-conditional-forget-89a6
